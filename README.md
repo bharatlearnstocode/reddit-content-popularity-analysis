@@ -21,10 +21,10 @@ between content structure, member influence, community
 moderation and content popularity.
 </p>
 <p align="justify">
-The main research question in this study was, **Are different
+The main research question in this study was, <b>Are different
 content- self generated vs blog links vs news links,
 popular due to similar influences of user, community,
-content and time aspects?** We developed models to predict
+  content and time aspects?</b> We developed models to predict
 content popularity based on the number of comments it
 received. We also compared across different content types
 as to what features influence popularity.
